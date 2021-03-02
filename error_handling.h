@@ -1,9 +1,4 @@
-/******************************************************************************/
-/* BNC Chatroom Server                                                        */
-/* Version: 0.1 (Prototype)                                                   */
-/* Author: YourPhobia                                                         */
-/* File: include/errorHandling.h                                              */
-/******************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
