@@ -1,0 +1,19 @@
+VERSION 0.1
+
+List of things that need to be done to get to the next version:
+1) Client needs to stop jamming the socket stream.
+2) Simple authentication needs to be implemented.
+3) All traffic needs to be encrypted.
+4) Roles needs to be added.
+
+Practical:
+1) How will every user be authenticated?
+2) How will userIDs be issued?
+
+Problems:
+1) The userID is generated randomly, but there to is no way have a userID persist.
+
+2) There is nothing stopping clients from the same IP address from joining,
+this vulnerability will allow for server raids and possibly even Denial of Service.
+
+3) Client jams the socket stream. Netcat works just fine.
