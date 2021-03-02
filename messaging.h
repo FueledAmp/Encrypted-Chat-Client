@@ -1,9 +1,4 @@
-/******************************************************************************/
-/* BNC Chatroom Server                                                        */
-/* Version: 0.1 (Prototype)                                                   */
-/* Author: YourPhobia                                                         */
-/* File: include/messages.h                                                   */
-/******************************************************************************/
+
 #define MESSAGE_BUFFER_SIZE 1024
 
 // Send message only to the sender, for warnings and such.
