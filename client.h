@@ -1,9 +1,4 @@
-/******************************************************************************/
-/* BNC Chatroom Server                                                        */
-/* Version: 0.1 (Prototype)                                                   */
-/* Author: YourPhobia                                                         */
-/* File: include/client.h                                                     */
-/******************************************************************************/
+
 #include "server_settings.h"
 
 #define MIN_ID_NUMBER 000000
