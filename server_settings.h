@@ -1,8 +1,4 @@
-/******************************************************************************/
-/* BNC Chatroom Server                                                        */
-/* Version: 0.1 (Prototype)                                                   */
-/* Author: YourPhobia                                                         */
-/* File: include/server.h                                                     */
+
 /******************************************************************************/
 #define DEFAULT_PORT 10000 // The port will fall back to this unless told otherwise.
 #define LOG_FILE "chat.log"
