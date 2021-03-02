@@ -1,9 +1,5 @@
-/******************************************************************************/
-/* BNC Chatroom Server                                                        */
-/* Version: 0.1 (Prototype)                                                   */
-/* Author: YourPhobia                                                         */
-/* File: include/logging.c                                                    */
-/******************************************************************************/
+
+
 void chatLogger (char *message){
 	FILE *file; // Pointer to the log file.
 
