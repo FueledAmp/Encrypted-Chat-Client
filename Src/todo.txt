@@ -17,3 +17,5 @@ Problems:
 this vulnerability will allow for server raids and possibly even Denial of Service.
 
 3) Client jams the socket stream. Netcat works just fine.
+
+Creds To: yourphobia@protonmail.com
